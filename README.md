@@ -1,2 +1,2 @@
 # DARK-STUDIO
-web- ds- típicos avanzados de programación
+web- ds- topicos avanzados de programación
